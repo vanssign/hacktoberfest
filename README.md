@@ -1,1 +1,1 @@
-# hectober
+# Accepted for Hacktoberfest
